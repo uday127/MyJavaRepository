@@ -1,7 +1,7 @@
 Class HelloWorld{
 
-  vOid myMethod(){
- sysout("display today date");
+  vOid displayDate(){
+ sysout("display today's date:-");
 }
 
 
